@@ -11,6 +11,7 @@
         - alias
         - all
         - any
+        - any_value
         - arg_max
         - arg_min
         - arg_true
@@ -78,6 +79,7 @@
         - scatter
         - shape
         - shift
+        - sin
         - skew
         - sort
         - sqrt

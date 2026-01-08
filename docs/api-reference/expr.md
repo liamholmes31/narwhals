@@ -8,6 +8,7 @@
         - alias
         - all
         - any
+        - any_value
         - cast
         - ceil
         - clip
@@ -59,6 +60,7 @@
         - rolling_var
         - round
         - shift
+        - sin
         - skew
         - sqrt
         - std
